@@ -20,12 +20,18 @@
 * Use unsupervised ML for anomaly detection and flagging suspicious transactions.
 * Build a scalable, explainable, and interactive compliance assistant that evolves with regulatory trends![image](https://github.com/user-attachments/assets/a0ff61f1-8974-44ad-aa8b-876fdacf68ad)
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+## 🎥 Demo  
+📹 [Video Demo](#) https://drive.google.com/file/d/19UZSzWJOQJ6ISFHjZF_K7eIFkUsfFUgq/view?usp=sharing 
 🖼️ Screenshots:
 
-<img width="943" alt="image" src="https://github.com/user-attachments/assets/29dc08b2-988c-4a05-b1e6-db20b17cb34c" />
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/e28987ca-524e-4306-baaa-8e534d4baa0c" />
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/cf12f7da-3c4d-4850-acd8-328c8be7a1cc" />
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/fada8387-7662-4ffc-9ca9-0572a05d9515" />
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/222f809b-bdbb-4ad0-b09a-8515e7bf597f" />
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/54736dfe-86a2-4d32-b16f-bbbbc33caeeb" />
+
+
+
 
 
 ## 💡 Inspiration
