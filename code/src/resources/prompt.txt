@@ -1,1 +1,3 @@
-Under B.2—Securities 2 (“Investment Securities with Designated Accounting Hedges”) section we have field names and list of allowed values for each filed. List out the filed names and the allowed values
+B.2—Securities 2 (“Investment Securities with Designated Accounting Hedges”) 
+in this section we have 15 field names
+so list them out and also the allowed values to each corresponding filed name and also the not allowed values as well
