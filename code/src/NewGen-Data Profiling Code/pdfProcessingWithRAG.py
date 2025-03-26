@@ -17,7 +17,7 @@ if not os.path.exists(RESULTS_DIR):
 # -------------------------------------- PDF Q&A (RAG) --------------------------------------
 
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3"
-HF_TOKEN = "Please_paste_your_hf_api_access_key"
+HF_TOKEN = "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"
 headers = {"Authorization": f"Bearer {HF_TOKEN}"}
 embed_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
